@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6729'
     url: http://www.gutenberg.org/2009/agents/6729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34188#With-our-Fighting-MenThe-story-of-their-faith-courage-endurance-in-the-Great-War
 gutenberg_issued: '2010-11-01'
 gutenberg_type: Text
 identifiers:
